@@ -1,9 +1,9 @@
-# instagram
-Ejercicio 1 del curso CSS grid layout de Platzi:
-Recrear el layout del perfil de instagram
+# Instagram basic layout
+This is the 1st exercise from CSS grid layout course of Platzi: 
+Grid style of Instagram profile.
 
-## El ejercicio lo puedes ver terminado en:
+## You can see this exercise here:
 [Instagram grid style](https://juliocesardeveloper.github.io/instagram/)
 
 
-Espero ir evolucionando éste ejercicio a medida que vaya adquiriendo más skills en frontend.
+I hope to evolve this exercise as I acquire more skills in frontend.
